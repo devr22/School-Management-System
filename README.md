@@ -10,3 +10,6 @@ OR mysql can also be used, for mysql you have to download MYSQL db(client versio
 For oracle database User:
 -- Import Metadata and Data Using a Script File in your desired Schema
 -- link for learning 'How to import?' [https://docs.oracle.com/cd/E17781_01/server.112/e18804/impexp.htm#BABJIIIE]
+
+
+***  you will find the 'admin id' & password in source code(smsgui).
