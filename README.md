@@ -1,5 +1,5 @@
 # School-Management-System
-This project contains application software for school management system with Java source code as well as  database designed on oracle.
+This project contains application software for school management system with source code as well as  database designed on oracle.
 To use this software some more tools will be required: 
 1. Install JRE 1.8 on your PC (No need of JDK)
 2. Download Oracle sqldeveloper
