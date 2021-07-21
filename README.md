@@ -1,7 +1,6 @@
-# School-Management-System
-<a href="https://drive.google.com/file/d/1mp4yiLoI620UtmBCdGuHskpt80hvY5JE/view?usp=sharing" 
-   target="_blank"><img src="https://drive.google.com/file/d/1B2uoTUSTNFVpujrJJNzAwe_H0EG8j7PT/view?usp=sharing" 
-alt="SMS" width="240" height="180" border="10" /></a>
+# School-Management-System Demo
+[Demo](https://drive.google.com/file/d/1mp4yiLoI620UtmBCdGuHskpt80hvY5JE/view?usp=sharing)
+<br />
 This project contains windows-based application for school management system with source code as well as  database designed on oracle sql.
 To use this software some more tools will be required: 
 1. Install JRE 1.8 on your PC (No need of JDK)
